@@ -6,6 +6,9 @@
 - ❤️ In love with software development.
 - ⚡ I like to play videogames and talk with friends, learn new things, practice sports.
 - 😄 Pronouns: He/him.
+
+### How reach me:
+[https://www.linkedin.com/in/vitor-recoaro/]
 <!--
 **Vitorrecoaro/Vitorrecoaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
