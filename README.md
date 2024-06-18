@@ -3,7 +3,7 @@
 ### About me:
 - 🌱 I’m currently studying Computer Science at UFSCar - SP, Brazil.
 - 🔎 Curious about everything on computer science.
-- ❤️ In love with software development.
+- ❤️ In love with software engineering.
 - ⚡ I like to play videogames and talk with friends, learn new things, practice sports.
 - 😄 Pronouns: He/him.
 
