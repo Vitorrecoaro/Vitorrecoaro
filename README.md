@@ -1,7 +1,7 @@
 # Hello everyone! I'm Vitor Recoaro
 
 ### About me:
-- 🌱 I’m currently studying Computer Science at UFSCar - SP, Brazil.
+- 🌱 I’m graduated on Computer Science at UFSCar - SP, Brazil.
 - 🔎 Curious about everything on computer science.
 - ❤️ In love with software engineering.
 - ⚡ I like to play videogames and talk with friends, learn new things, practice sports.
